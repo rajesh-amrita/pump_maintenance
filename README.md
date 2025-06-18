@@ -13,6 +13,4 @@ This repository contains a six-month synthetic dataset generated to emulate the 
   - 4: Multi-fault condition  
 
 ## Citation
-This dataset was developed as part of a manuscript submitted to *IEEE Transactions on Industrial Informatics*. Please cite it as:
-
-Rajesh, A. (2025). Synthetic Dataset for Predictive Maintenance of Industrial Pumps. GitHub. https://github.com/rajesh-amrita/pump_maintenance
+Rajesh T, Anju S Pillai (2025), "Synthetic Dataset for Predictive Maintenance of Industrial Pumps. GitHub. https://github.com/rajesh-anju s pillai/pump_maintenance"
